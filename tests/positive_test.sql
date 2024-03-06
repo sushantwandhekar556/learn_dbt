@@ -1,0 +1,1 @@
+{{positive_value(ref('dim_hosts_cleansed'),'listing_id')}}
